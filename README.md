@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **automation**
 
-- 👨‍💻 Check out my Website [https://duckycodes.github.io/Richard-Zhou-Personal-Website/](https://duckycodes.github.io/Richard-Zhou-Personal-Website/)
+- 👨‍💻 Check out my website [here](https://duckycodes.github.io/Richard-Zhou-Personal-Website/)  
 
-- 📫 How to reach me [https://duckycodes.github.io/Richard-Zhou-Personal-Website/#contact](https://duckycodes.github.io/Richard-Zhou-Personal-Website/#contact)
+- 📫 How to reach me [here](https://duckycodes.github.io/Richard-Zhou-Personal-Website/#contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
