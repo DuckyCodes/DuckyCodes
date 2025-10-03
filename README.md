@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckycodes&label=Profile%20views&color=0e75b6&style=flat" alt="duckycodes" /> </p>
 
-- 👨‍💻 Check out my website [here](https://duckycodes.github.io/Richard-Zhou-Personal-Website/)  
-
-- 📫 How to reach me [here](https://duckycodes.github.io/Richard-Zhou-Personal-Website/#contact)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
